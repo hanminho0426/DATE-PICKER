@@ -1,7 +1,5 @@
 # `DATE-PICKER(달력)`20220221-0222
 
-## [DATE-PICKER](https:// 'Netlify로 이동')
-
 - 리액트로 만드는 DATE-PICKER
 - 개발환경 snowpack
 - Sass
