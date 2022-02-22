@@ -1,4 +1,4 @@
-# `DATE-PICKER(데이터피커)`20220221-0222
+# `DATE-PICKER(달력)`20220221-0222
 
 ## [DATE-PICKER](https:// 'Netlify로 이동')
 
